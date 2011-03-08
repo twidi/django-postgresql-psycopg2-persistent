@@ -21,7 +21,7 @@ Topic :: Software Development :: Libraries :: Python Modules
 
 
 setup(
-    name="pytimeago",
+    name="postgresql_psycopg2_persistent",
     version=VERSION,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
